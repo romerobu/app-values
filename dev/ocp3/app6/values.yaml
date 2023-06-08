@@ -1,8 +1,0 @@
-# override chart values
-app-chart:
-  app:
-    appname: back-golang-v1
-    namespace: app-3-6
-    uid: 9821
-    replicas: 2
-    labels: app-name
