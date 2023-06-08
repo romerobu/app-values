@@ -12,5 +12,5 @@ mantainers:
 
 dependencies:
   - name: app-chart
-    repository: https://romerobu.github.io/app-chart #file://../../../../app-chart 
+    repository: https://romerobu.github.io/app-chart #file://../../../../app-chart
     version: 0.1.0
