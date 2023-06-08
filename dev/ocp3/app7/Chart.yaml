@@ -1,0 +1,16 @@
+apiVersion: v2
+name: jump-app
+description: A Helm chart to deploy JumpApp for Kubernetes
+type: application
+
+version: 0.1.0
+appVersion: 0.1.16
+
+mantainers:
+  - name: Asier Cidon
+    email: acidonpe@redhat.com
+
+dependencies:
+  - name: app-chart
+    repository: file://../../../../app-chart #'file://./charts/jump-app-micros'
+    version: 0.1.0
