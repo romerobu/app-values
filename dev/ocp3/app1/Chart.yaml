@@ -12,5 +12,5 @@ mantainers:
 
 dependencies:
   - name: app-chart
-    repository: file://../../../../app-chart #'file://./charts/jump-app-micros'
+    repository: https://romerobu.github.io/app-chart #file://../../../../app-chart
     version: 0.1.0
