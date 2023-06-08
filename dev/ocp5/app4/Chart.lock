@@ -1,0 +1,6 @@
+dependencies:
+- name: app-chart
+  repository: https://romerobu.github.io/app-chart
+  version: 0.1.0
+digest: sha256:804854d0e531198900727561b5902d94b07a78b2cbed5c9870c39b6c71c591c0
+generated: "2023-06-09T01:58:19.773001102+02:00"
