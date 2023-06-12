@@ -5,4 +5,4 @@ app-chart:
     namespace: app-3-2
     uid: 9887
     replicas: 2
-    labels: app-9887
+    labels: app-sdvds
