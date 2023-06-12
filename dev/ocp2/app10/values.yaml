@@ -3,6 +3,6 @@ app-chart:
   app:
     appname: back-golang-v1
     namespace: app-2-10
-    uid: 25814
+    uid: 15328
     replicas: 2
     labels: app-name
