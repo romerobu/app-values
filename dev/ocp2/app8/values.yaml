@@ -5,4 +5,4 @@ app-chart:
     namespace: app-2-8
     uid: 18581
     replicas: 2
-    labels: app-name
+    labels: app-18581
